@@ -34,4 +34,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ---
-Built with 💡 by Nilesh Mishra
+📬 Feedback & Contributions
+Feel free to open issues or contribute with PRs. Suggestions welcome!
+
+🧑‍💻 Author
+Made with ❤️ by Nilesh Mishra
+
